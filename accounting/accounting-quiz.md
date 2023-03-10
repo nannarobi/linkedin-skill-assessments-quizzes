@@ -601,3 +601,24 @@ I'm not 100% sure on this.
 - [ ] limited competition in the company's industry resulting in increasing profitability
 - [ ] the audit committee's approval of specific accounting methods and principles
 - [ ] year-end financial adjustments significantly impacting the financial results
+
+#### Q75. Which budgeting approach is most favorable to obtain employee support?
+
+- [ ] top-down budgeting
+- [ ] zero-based budgeting
+- [ ] participatory budgeting
+- [ ] collaborative budgeting
+
+#### Q76. Your client's company wants to determine the relationship between its monthly operating costs and a potential cost driver. The output of regression analysis showed this information: intercept coefficient = 5500, x variable 1 coefficient = 82.7, r-square = 0.96. What is the company's monthly cost equation?
+
+- [ ] y = $82.7x + $0.96x + $5500
+- [ ] y = $5500x + $82.7x
+- [ ] y = $82.7xx + $5500
+- [ ] y = $0.96x + $5500
+
+#### Q77. Which statement of the negative confirmation requests is correct?
+
+- [ ] Negative confirmation requests are an effective tool if the auditor strongly suspects that account balances have been understated.
+- [ ] Unreturned negative confirmation requests do not provide strong audit evidence.
+- [ ] Negative confirmation requests are an appropriate choice when detection risk is low.
+- [ ] Unreturned negative confirmation requests prove that there are no issues with account balances.
